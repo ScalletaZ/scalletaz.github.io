@@ -85,7 +85,8 @@
             "content": "哈哈好的，等我当了老板，就来请你",
             "nextXianzhe": ["0003"]
         }, {
-            "content": "好，我看看"
+            "content": "好，我看看",
+	    "nextXianzhe": ["0003"]
         }]
     }]
 }
